@@ -55,8 +55,7 @@ Delete the default template
 Paste the entire script below:
 
 
-[Script]([https://pages.github.com/](https://github.com/SuperBoombastic/Tutor-ABC-Tamper-Monkey-CSS-Camera-Mirror-Script/blob/main/Tutor%20ABC%20Camera%20Mirrorscript.js)).
-
+[Script Link](https://github.com/SuperBoombastic/Tutor-ABC-Tamper-Monkey-CSS-Camera-Mirror-Script/blob/main/Tutor%20ABC%20Camera%20Mirrorscript.js)
 
 
 Click File → Save (or press Ctrl+S / Cmd+S)
