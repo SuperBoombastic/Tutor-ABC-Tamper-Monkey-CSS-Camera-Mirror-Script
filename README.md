@@ -61,7 +61,7 @@ Ensure the script toggle is ON (green) in Tampermonkey
 
 ➡️ Script Link
 
-(Replace with the hyperlink to your GitHub script file)
+[Script Link](https://github.com/SuperBoombastic/Tutor-ABC-Tamper-Monkey-CSS-Camera-Mirror-Script/blob/main/Tutor%20ABC%20Camera%20Mirrorscript.js)
 
 ▶️ Usage
 
