@@ -5,6 +5,7 @@
 // @description  This script will reverse the mirror effect on the Tutor ABC Camera
 // @author       You
 // @match        https://www5.tutormeet.com/*
+// @match        https://consultant.tutorabcglobal.com.hk/*
 // @icon         none
 // @grant        none
 // ==/UserScript==
